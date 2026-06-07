@@ -49,7 +49,7 @@ The goal of this project was to improve my frontend development skills, practice
 - Contact
 
 ## Portfolio is live at: 
-    visit : 
+    visit : https://github.com/LakshithPradhan/Portfolio.git
 
 
 
