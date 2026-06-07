@@ -1,3 +1,7 @@
+// ===== INITIALIZE EMAILJS =====
+// Initialize EmailJS with your public key
+emailjs.init('PxNA_DExXdr__MX2L');
+
 // ===== HAMBURGER MENU FUNCTIONALITY =====
 // This code handles the mobile menu toggle (hamburger icon)
 let menuIcon = document.querySelector('#menu-icon');
@@ -41,8 +45,8 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Send the email using EmailJS service
             emailjs.send(
-                'service_0lgd0r4', // Your EmailJS Service ID - connects to your Gmail
-                'template_i5wm629', // Your EmailJS Template - format for the email
+                'service_rtola8b', // Your EmailJS Service ID - connects to your Gmail
+                'template_w8geuyw', // Your EmailJS Template - format for the email
                 templateParams // The form data to send
             ).then(function(response) {
                 // If email sends successfully, show success message
