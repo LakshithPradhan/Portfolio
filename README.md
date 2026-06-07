@@ -1,8 +1,8 @@
-# 🌐 Personal Portfolio Website (PN's Portfolio)
+# 🌐 Personal Portfolio Website (LP's Portfolio)
 
-A modern and responsive personal portfolio website created using HTML, CSS, and a little bit of JavaScript.
+A modern and responsive personal portfolio website created using HTML, CSS, and  JavaScript.
 
-This portfolio represents my journey as a beginner Computer Science student who is learning web development and exploring the tech field through hands-on projects.
+This portfolio represents my journey as a beginner Electronic and communication student who is learning web development and exploring the tech field through hands-on projects.
 
 ---
 
@@ -49,7 +49,7 @@ The goal of this project was to improve my frontend development skills, practice
 - Contact
 
 ## Portfolio is live at: 
-    visit : https://prajwal-techy.github.io/PN-s-Portfolio/
+    visit : 
 
 
 
@@ -76,8 +76,8 @@ The goal of this project was to improve my frontend development skills, practice
 
 ## 🙌 Author
 
-### Prajwal N
-Computer Science Student | Beginner Frontend Developer
+### Lakshith R Pradhan
+ Electronic and communication Student | Beginner Frontend Developer
 
 
 
