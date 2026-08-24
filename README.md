@@ -51,19 +51,6 @@ The goal of this project was to improve my frontend development skills, practice
 ## Portfolio is live at: 
     visit : https://github.com/LakshithPradhan/Portfolio.git
 
-
-
-
----
-
-## 🔗 Future Improvements
-
-- Make the website fully responsive for all devices
-- Add animations using JavaScript
-- Improve accessibility
-- Add backend functionality
-- Add more projects and certifications
-
 ---
 
 ## 🙌 Author
