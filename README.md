@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website (LP's Portfolio)
+# 🌐 Personal Portfolio Website 
 
 A modern and responsive personal portfolio website created using HTML, CSS, and  JavaScript.
 
